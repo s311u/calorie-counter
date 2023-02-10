@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calorie-counter</string>
+    <string name="calories">calories</string>
+</resources>
